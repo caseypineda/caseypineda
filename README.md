@@ -2,15 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
 - <b>Python</b>
-  - In progess.
+  - In progress.
+
+<h2> Certifications </h2>
+
+- [Google Cybersecurity Certificate](https://coursera.org/share/f2f5900e0ce60cf6cf2491a838705077)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
-
 
 [<img align="left" alt="CaseyPineda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
