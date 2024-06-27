@@ -2,12 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Security Operations Center<b>
+  - Azure SOC Honeynet
+
 - <b>Python</b>
   - In progress.
 
 <h2> Certifications </h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/f2f5900e0ce60cf6cf2491a838705077)
+- CompTIA Security+
 
 <h2> 🤳 Connect with me:</h2>
 
