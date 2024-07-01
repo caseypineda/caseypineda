@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Operations Center<b>
-  - Azure SOC Honeynet (In Progress)
+  - Azure SOC Honeynet
 
 - <b>Python</b>
   - In progress.
