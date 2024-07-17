@@ -5,9 +5,6 @@
 - <b>Security Operations Center<b>
   - Azure SOC Honeynet
 
-- <b>Python</b>
-  - In progress.
-
 <h2> Certifications </h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/f2f5900e0ce60cf6cf2491a838705077)
