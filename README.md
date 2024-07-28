@@ -3,7 +3,15 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Operations Center<b>
-  - Azure SOC Honeynet
+  - [Azure SOC Honeynet](https://github.com/caseypineda/Azure-SOC-Honeynet-Project)
+- <b>Google Cybersecurity Projects
+  - Update a file through a Python algorithm
+  - Use Linux commands to manage file permissions
+  - Apply filters to sQL queries
+  - Document an incident with an incident handler's journal
+  - Finalize your incident handler's journal
+  - Conduct a security audit
+  - Use the NIST Cybersecurity Framework to respond to a security incident
 
 <h2> Certifications </h2>
 
