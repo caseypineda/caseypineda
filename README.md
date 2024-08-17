@@ -1,13 +1,15 @@
 <h1>Hi, I'm Casey! <br/><a href="https://github.com/caseypineda" <a href="https://www.linkedin.com/in/caseypineda/">Cybersecurity Certified Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+- <b>Complete Ethical Hacking Bootcamp</b>
+  - [Basic Port Scanner](https://github.com/caseypineda/Basic-Port-Scanner/blob/main/Port%20Scanner%20Code)
+  
 - <b>Security Operations Center<b>
   - [Azure SOC Honeynet](https://github.com/caseypineda/Azure-SOC-Honeynet-Project)
-- <b>Google Cybersecurity Projects
+- <b>Google Cybersecurity Projects (In a separate Google Drive)
   - Update a file through a Python algorithm
   - Use Linux commands to manage file permissions
-  - Apply filters to sQL queries
+  - Apply filters to SQL queries
   - Document an incident with an incident handler's journal
   - Finalize your incident handler's journal
   - Conduct a security audit
