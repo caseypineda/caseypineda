@@ -19,7 +19,7 @@
 - [Google Cybersecurity Certificate](https://coursera.org/share/f2f5900e0ce60cf6cf2491a838705077)
 - CompTIA Security+
 - Intro to Bug Bounty and Web Application Hacking
-- Complete Ethical Hacking Bootcamp (Zero to Mastery)[In Progress]
+- Complete Ethical Hacking Bootcamp (Zero to Mastery)
 
 <h2> 🤳 Connect with me:</h2>
 
